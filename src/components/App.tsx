@@ -3,8 +3,8 @@ import { VoteOptions } from "./VoteOptions";
 import { useState } from "react";
 import { VoteStats } from "./VoteStats";
 import { Notification } from "./Notification";
-import css from "/Учеба/project_1/React/02-react-cafe/src/css/App.module.css";
-import type { Votes, VoteType } from "/Учеба/project_1/React/02-react-cafe/src/types/votes"
+import css from "./css/App.module.css";
+import type { Votes, VoteType } from "./types/votes"
 
 
 export default function App() {

@@ -1,4 +1,4 @@
-import css from "/Учеба/project_1/React/02-react-cafe/src/css/CafeInfo.module.css";
+import css from "./css/CafeInfo.module.css";
 
 
 export default function CafeInfo() {

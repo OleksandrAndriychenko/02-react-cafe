@@ -1,5 +1,5 @@
-import css from "/Учеба/project_1/React/02-react-cafe/src/css/VoteOptions.module.css";
-import type { VoteType } from "/Учеба/project_1/React/02-react-cafe/src/types/votes"
+import css from "./css/VoteOptions.module.css";
+import type { VoteType } from "./types/votes"
 
 interface VoteOptionsProps {
     onVote: (type: VoteType) => void;

@@ -1,4 +1,4 @@
-import css from "/Учеба/project_1/React/02-react-cafe/src/css/VoteStats.module.css";
+import css from "./css/VoteStats.module.css";
 
 interface VoteStatsProps {
     votes: {
