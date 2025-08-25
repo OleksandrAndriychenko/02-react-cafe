@@ -1,4 +1,4 @@
-import css from "./css/VoteStats.module.css";
+import css from "../css/VoteStats.module.css";
 
 interface VoteStatsProps {
     votes: {
